@@ -49,6 +49,13 @@ Installing and running Sneat is super easy, please Follow below steps and you wi
 1. Open the terminal in your root directory of Sneat Laravel.
 2. Use the following command to install the composer
 
+nots :- to me Karim Elmogy
+
+open the cmd Not powershell
+
+
+
+
 ```bash
 composer install
 ```
